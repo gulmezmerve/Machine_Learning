@@ -15,6 +15,3 @@ Binarized Network
 Pre-Trained Data
 
 * keras_mnisttanhs.h5
-
-.h5 uzantılı dosya kerasta mnist için pre-trained edilmiş modeli içermektedir. weightlerin initial 
-değerler olarak yüklenmesi bu dosya ile yapılmaktadır.
