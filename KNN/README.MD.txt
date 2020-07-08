@@ -1,4 +1,3 @@
-#K Neighbors Classifier
+#K-Nearest Neighbours
 
-Using Sklearn Framework, KNN algorithm is impelemented on opt-digits dataset. 
-
+Using opt-digits dataset 
